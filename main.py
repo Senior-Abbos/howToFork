@@ -17,3 +17,5 @@ plt.ylabel('Количество программистов (млн)')
     
 plt.grid(True)
 plt.show()
+
+print('Understood??')
